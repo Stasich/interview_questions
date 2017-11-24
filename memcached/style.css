@@ -1,0 +1,23 @@
+.incr {
+
+
+}
+
+.decr {
+
+}
+
+a {
+    font-weight:bolder;
+    padding: 0px 6px;
+    border-radius: 5px;
+    background-color: #a99390;
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    background-color: #bba3a0;
+}
+a:active {
+    background-color: #917d7a;
+}
